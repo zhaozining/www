@@ -16,4 +16,5 @@ Route::get('/', function () {
 });
 
 Route::any("/teas","Ce\TeasController@token");
-
+Route::any("/teas1","Ce\TeasController@token1");
+Route::any("/teas2","Ce\TeasController@token2");
