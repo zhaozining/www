@@ -45,4 +45,8 @@ class TeasController extends Controller
         echo $content;
 
     }
+
+    public function token3(){
+        echo "呵呵";
+    }
 }
