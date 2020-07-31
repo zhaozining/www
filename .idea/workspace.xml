@@ -2,15 +2,80 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a021a6a-f707-4cb3-9561-b6d8d1019d58" name="默认" comment="默认">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/public/h5/font-awesome/fonts/FontAwesome.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/public/h5/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/public/h5/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/public/h5/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/public/h5/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/img/about.jpg" afterPath="$PROJECT_DIR$/public/h5/img/about.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/img/blog1.png" afterPath="$PROJECT_DIR$/public/h5/img/blog1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/img/blog2.png" afterPath="$PROJECT_DIR$/public/h5/img/blog2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/img/blog3.png" afterPath="$PROJECT_DIR$/public/h5/img/blog3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/img/cart-menu1.png" afterPath="$PROJECT_DIR$/public/h5/img/cart-menu1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/img/cart-menu2.png" afterPath="$PROJECT_DIR$/public/h5/img/cart-menu2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/img/cart1.png" afterPath="$PROJECT_DIR$/public/h5/img/cart1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/img/cart2.png" afterPath="$PROJECT_DIR$/public/h5/img/cart2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/img/favicon.png" afterPath="$PROJECT_DIR$/public/h5/img/favicon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/img/image-profil.jpg" afterPath="$PROJECT_DIR$/public/h5/img/image-profil.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/img/parallax.jpg" afterPath="$PROJECT_DIR$/public/h5/img/parallax.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/img/product-new1.png" afterPath="$PROJECT_DIR$/public/h5/img/product-new1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/img/product-new2.png" afterPath="$PROJECT_DIR$/public/h5/img/product-new2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/img/product-new3.png" afterPath="$PROJECT_DIR$/public/h5/img/product-new3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/img/product-new4.png" afterPath="$PROJECT_DIR$/public/h5/img/product-new4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/img/product-top1.png" afterPath="$PROJECT_DIR$/public/h5/img/product-top1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/img/product-top2.png" afterPath="$PROJECT_DIR$/public/h5/img/product-top2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/img/product-top3.png" afterPath="$PROJECT_DIR$/public/h5/img/product-top3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/img/product-top4.png" afterPath="$PROJECT_DIR$/public/h5/img/product-top4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/img/profile.jpg" afterPath="$PROJECT_DIR$/public/h5/img/profile.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/img/shop-single.png" afterPath="$PROJECT_DIR$/public/h5/img/shop-single.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/img/slide1.jpg" afterPath="$PROJECT_DIR$/public/h5/img/slide1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/img/slide2.jpg" afterPath="$PROJECT_DIR$/public/h5/img/slide2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/img/slide3.jpg" afterPath="$PROJECT_DIR$/public/h5/img/slide3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/img/testimonial1.jpg" afterPath="$PROJECT_DIR$/public/h5/img/testimonial1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/img/testimonial2.jpg" afterPath="$PROJECT_DIR$/public/h5/img/testimonial2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/img/testimonial3.jpg" afterPath="$PROJECT_DIR$/public/h5/img/testimonial3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/img/user-comment.jpg" afterPath="$PROJECT_DIR$/public/h5/img/user-comment.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/img/wishlist1.png" afterPath="$PROJECT_DIR$/public/h5/img/wishlist1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/img/wishlist2.png" afterPath="$PROJECT_DIR$/public/h5/img/wishlist2.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/api.iml" afterPath="$PROJECT_DIR$/.idea/api.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/blade.xml" afterPath="$PROJECT_DIR$/.idea/blade.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/Ce/DecController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/Ce/DecController.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/Ce/TeasController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/Ce/TeasController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/H5User/UserController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/H5User/UserController.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" afterPath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/artisan" afterPath="$PROJECT_DIR$/artisan" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/css/animate.css" afterPath="$PROJECT_DIR$/public/h5/css/animate.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/css/fakeLoader.css" afterPath="$PROJECT_DIR$/public/h5/css/fakeLoader.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/css/magnific-popup.css" afterPath="$PROJECT_DIR$/public/h5/css/magnific-popup.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/css/materialize.css" afterPath="$PROJECT_DIR$/public/h5/css/materialize.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/css/materialize.min.css" afterPath="$PROJECT_DIR$/public/h5/css/materialize.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/css/normalize.css" afterPath="$PROJECT_DIR$/public/h5/css/normalize.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/css/owl.carousel.css" afterPath="$PROJECT_DIR$/public/h5/css/owl.carousel.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/css/owl.theme.css" afterPath="$PROJECT_DIR$/public/h5/css/owl.theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/css/owl.transitions.css" afterPath="$PROJECT_DIR$/public/h5/css/owl.transitions.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/css/style.css" afterPath="$PROJECT_DIR$/public/h5/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/public/h5/font-awesome/css/font-awesome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/public/h5/font-awesome/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/public/h5/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/js/animatedModal.min.js" afterPath="$PROJECT_DIR$/public/h5/js/animatedModal.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/js/contact-form.js" afterPath="$PROJECT_DIR$/public/h5/js/contact-form.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/js/fakeLoader.min.js" afterPath="$PROJECT_DIR$/public/h5/js/fakeLoader.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/js/jquery.filterizr.js" afterPath="$PROJECT_DIR$/public/h5/js/jquery.filterizr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/js/jquery.filterizr.min.js" afterPath="$PROJECT_DIR$/public/h5/js/jquery.filterizr.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/js/jquery.magnific-popup.min.js" afterPath="$PROJECT_DIR$/public/h5/js/jquery.magnific-popup.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/js/jquery.min.js" afterPath="$PROJECT_DIR$/public/h5/js/jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/js/main.js" afterPath="$PROJECT_DIR$/public/h5/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/js/materialize.js" afterPath="$PROJECT_DIR$/public/h5/js/materialize.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/js/materialize.min.js" afterPath="$PROJECT_DIR$/public/h5/js/materialize.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/js/owl.carousel.min.js" afterPath="$PROJECT_DIR$/public/h5/js/owl.carousel.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/h5/js/portfolio.js" afterPath="$PROJECT_DIR$/public/h5/js/portfolio.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/h5user/conter.blade.php" afterPath="$PROJECT_DIR$/resources/views/h5user/conter.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/h5user/login.blade.php" afterPath="$PROJECT_DIR$/resources/views/h5user/login.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/h5user/register.blade.php" afterPath="$PROJECT_DIR$/resources/views/h5user/register.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/web.php" afterPath="$PROJECT_DIR$/routes/web.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/app/.gitignore" afterPath="$PROJECT_DIR$/storage/app/.gitignore" />
