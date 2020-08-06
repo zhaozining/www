@@ -33,3 +33,17 @@ Route::post("/h5/logindo","H5User\UserController@logindo");
 //注册
 Route::get("/h5/register","H5User\UserController@register");
 Route::post("/h5/regi_do","H5User\UserController@regi_do");
+//个人中心
+Route::get("/h5/conter","H5User\UserController@conter");
+Route::get("/h5/conters","H5User\UserController@conters");
+//列表
+Route::any("/h5/list1","Goods\GoodsController@list1");
+Route::get("/h5/list2","Goods\GoodsController@list2");
+//详情
+Route::get("/h5/details","Goods\GoodsController@details");
+Route::get("/h5/deta","Goods\GoodsController@deta");
+//购物车
+Route::get("/h5/cart","Goods\GoodsController@cart");
+Route::get("/h5/carts","Goods\GoodsController@carts");
+
+Route::get("/upload","Upload\UploadController@upload");

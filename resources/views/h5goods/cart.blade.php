@@ -362,35 +362,81 @@
 </div>
 <!-- end cart menu -->
 
-
-<!-- register -->
-
-<div class="pages section">
+<!-- cart -->
+<div class="cart section">
     <div class="container">
-        <b style="align:right;"><a href="{{url("h5/login")}}"><p class="btn button-default">LOGIN</p></a></b>
         <div class="pages-head">
-            <h3>REGISTER</h3>
+            <h3>CART</h3>
         </div>
-        <div class="register">
+        <div class="content">
+            <div class="cart-1">
+                <div class="row">
+                    <div class="col s5">
+                        <h5>Image</h5>
+                    </div>
+                    <div class="col s7">
+                        <img src="img/cart1.png" alt="">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col s5">
+                        <h5>Name</h5>
+                    </div>
+                    <div class="col s7">
+                        <h5><a href="">Fashion Men's</a></h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col s5">
+                        <h5>Quantity</h5>
+                    </div>
+                    <div class="col s7">
+                        <input value="1" type="text">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col s5">
+                        <h5>Price</h5>
+                    </div>
+                    <div class="col s7">
+                        <h5>$20</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col s5">
+                        <h5>Action</h5>
+                    </div>
+                    <div class="col s7">
+                        <h5><i class="fa fa-trash"></i></h5>
+                    </div>
+                </div>
+            </div>
+            <div class="divider"></div>
+
+        </div>
+        <div class="total">
             <div class="row">
-                <form class="col s12" action="{{url("h5/regi_do")}}" method="post">
-                    <div class="input-field">
-                        <input type="text" class="validate" placeholder="NAME" name="name" required>
-                    </div>
-                    <div class="input-field">
-                        <input type="email" placeholder="EMAIL" class="validate" name="email" required>
-                    </div>
-                    <div class="input-field">
-                        <input type="password" placeholder="PASSWORD" name="pwd" class="validate" required>
-                    </div>
-                    <div ><button class="btn button-default" type="submit">REGISTER</button></div>
-                </form>
+                <div class="col s7">
+                    <h5>Fashion Men's</h5>
+                </div>
+                <div class="col s5">
+                    <h5>$21.00</h5>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col s7">
+                    <h6>Total</h6>
+                </div>
+                <div class="col s5">
+                    <h6>$41.00</h6>
+                </div>
             </div>
         </div>
+        <button class="btn button-default">Process to Checkout</button>
     </div>
 </div>
-<!-- end register -->
-
+<!-- end cart -->
 
 <!-- loader -->
 <div id="fakeLoader"></div>

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="zxx">
+<html lang="zxx" xmlns="http://www.w3.org/1999/html">
 <head>
     <meta charset="UTF-8">
     <title>Mstore - Online Shop Mobile Template</title>
@@ -366,8 +366,9 @@
 <!-- login -->
 <div class="pages section">
     <div class="container">
+        <b style="align:right;"><a href="{{url("h5/register")}}"><p class="btn button-default">REGISTER</p></a></b>
         <div class="pages-head">
-            <h3>LOGIN</h3>
+             <h3>LOGIN</h3>
         </div>
 
         <div class="login">
@@ -381,6 +382,7 @@
                     </div>
                     <a href=""><h6>Forgot Password ?</h6></a>
                     <button type="submit" class="btn button-default">LOGIN</button>
+
                 </form>
             </div>
         </div>

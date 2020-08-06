@@ -362,35 +362,57 @@
 </div>
 <!-- end cart menu -->
 
-
-<!-- register -->
-
-<div class="pages section">
+<!-- wishlist -->
+<div class="wishlist section">
     <div class="container">
-        <b style="align:right;"><a href="{{url("h5/login")}}"><p class="btn button-default">LOGIN</p></a></b>
         <div class="pages-head">
-            <h3>REGISTER</h3>
+            <h3>DETAILS</h3>
         </div>
-        <div class="register">
-            <div class="row">
-                <form class="col s12" action="{{url("h5/regi_do")}}" method="post">
-                    <div class="input-field">
-                        <input type="text" class="validate" placeholder="NAME" name="name" required>
+        <div class="content">
+            <div class="cart-1">
+                <div class="row">
+                    <div class="col s5">
+                        <h5>Image</h5>
                     </div>
-                    <div class="input-field">
-                        <input type="email" placeholder="EMAIL" class="validate" name="email" required>
+                    <div class="col s7">
+                        <img src="img/wishlist1.png" alt="">
                     </div>
-                    <div class="input-field">
-                        <input type="password" placeholder="PASSWORD" name="pwd" class="validate" required>
+                </div>
+                <div class="row">
+                    <div class="col s5">
+                        <h5>Name</h5>
                     </div>
-                    <div ><button class="btn button-default" type="submit">REGISTER</button></div>
-                </form>
+                    <div class="col s7">
+                        <h5><a href="">Fashion Men's</a></h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col s5">
+                        <h5>Stock Status</h5>
+                    </div>
+                    <div class="col s7">
+                        <h5>In Stock</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col s5">
+                        <h5>Price</h5>
+                    </div>
+                    <div class="col s7">
+                        <h5>$20</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col 12">
+                        <button class="btn button-default">SEND TO CART</button>
+                    </div>
+                </div>
             </div>
+            <div class="divider"></div>
         </div>
     </div>
 </div>
-<!-- end register -->
-
+<!-- end wishlist -->
 
 <!-- loader -->
 <div id="fakeLoader"></div>
@@ -425,5 +447,7 @@
 <script src="/h5/js/animatedModal.min.js"></script>
 <script src="/h5/js/main.js"></script>
 
+
 </body>
+
 </html>
